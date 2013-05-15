@@ -22,7 +22,7 @@ Open the NuGet ["Manage My Packages" page](https://nuget.org/account/Packages), 
 
 NuGet ["Manage My Packages" ページ](https://nuget.org/account/Packages) を開き、次にブラウザのアドレスバーに以下のテキストを入力します。
 
-    javascript:(function(d){var s=d.createElement('script');s.type='text/javascript';s.src='https://goo.gl/SMwQZ';d.body.appendChild(s);})(document)
+    javascript:(function(d){var s=d.createElement('script');s.type='text/javascript';s.src='https://goo.gl/5GS0L';d.body.appendChild(s);})(document)
 
 Then, appear prompt dialog to skip top downloads packages.  
 You reply to the prompt then appear bar charts under package name.
